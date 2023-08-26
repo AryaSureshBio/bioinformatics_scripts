@@ -2,4 +2,6 @@
 This repository contains scripts that can aid bioinformatics analyses in Ubuntu OS.
 
 ## fq2fa_converter.sh
-This bash script can take an input FASTQ file and convert it to a FASTA file.
+Convert your FASTQ file to FASTA file.
+USAGE:
+./fq2fa_converter.sh INPUT_FILE OUTPUT_FILE
